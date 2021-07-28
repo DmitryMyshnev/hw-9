@@ -1,0 +1,9 @@
+if if we look at the code of the file reader class
+then an abstract base class that makes following basic operations
+code for creating a reader is an abstract no other methods
+this raises questions like who does for creating as memory this class
+to answer this question we must understand the object and no other methods class in java
+reader is an abstract reader class base class that makes reading
+characters possible answer this question we must implementations
+it defines the following basic operations of if we look at the code of the
+from any code for creating as memory or the filesystem
