@@ -10,9 +10,6 @@ public class PhoneValidation {
     public String getValidationPhones(String fileName) {
         String gotPhones = new String();
         String result = new String();
-        boolean isSuccessful = true;
-        char[] templatePhone = new char[]{'(', 'x', 'x', 'x', ')', ' ', 'x', 'x', 'x', '-', 'x', 'x', 'x', 'x'};
-        char[] templatePhone2 = new char[]{'x', 'x', 'x', '-', 'x', 'x', 'x', '-', 'x', 'x', 'x', 'x'};
 
         try (FileReader reader = new FileReader(fileName)) {
             int c;
