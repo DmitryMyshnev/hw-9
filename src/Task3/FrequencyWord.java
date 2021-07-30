@@ -1,11 +1,10 @@
 package Task3;
 
 import java.io.File;
-import java.io.FileReader;
 import java.util.*;
 
 public class FrequencyWord {
-    private String path;
+    private final String path;
 
     public FrequencyWord(String path) {
         this.path = path;
